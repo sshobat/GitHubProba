@@ -1,1 +1,1 @@
-alert('HELLO THERE');
+alert('CRAZY COLORS');
